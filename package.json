@@ -1,0 +1,21 @@
+{
+  "name": "programadores-para-la-paz-semana3-dia2",
+  "version": "1.0.0",
+  "description": "Funciones simples en JavaScript: organizar decisiones y reutilizar lógica.",
+  "main": "evaluar-informacion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsmithlopezmurcia-design/programadores-para-la-paz-semana3-dia2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/martinsmithlopezmurcia-design/programadores-para-la-paz-semana3-dia2/issues"
+  },
+  "homepage": "https://github.com/martinsmithlopezmurcia-design/programadores-para-la-paz-semana3-dia2#readme"
+}

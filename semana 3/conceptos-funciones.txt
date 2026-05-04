@@ -1,47 +1,59 @@
 Conceptos básicos de funciones – Semana 3 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Martin Smith Lopez Murcia
+Fecha: 03 de mayo de 2026
+Nombre de la rama: Martin_Lopez_Murcia
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una función en JavaScript?
 
-Respuesta:
+Respuesta: una función es como una forma de guardar un bloque de código 
+para poder llamarlo y usarlo mas tarde cuando se necesite y cuantas veces se requiera. 
 
 2. ¿Para qué sirve organizar instrucciones dentro de una función?
 
-Respuesta:
+Respuesta: sirve para llamar un bloque de código en especifico 
+cuando lo necesite y no tener que repetir el mismo código muchas veces. 
 
 3. ¿Qué significa entrada en una función?
 
-Respuesta:
+Respuesta: son los valores que tu le asignas que debe 
+recibir la función para que esta pueda trabajar.
 
 4. ¿Qué significa proceso en una función?
 
-Respuesta:
+Respuesta: es lo hace la función con los datos que le diste. 
 
 5. ¿Qué significa salida en una función?
 
-Respuesta:
+Respuesta: la salida es el resulta que da la función después de que se 
+ingresaran unos datos y se realizara un proceso.
 
 6. ¿Qué hace return en una función?
 
-Respuesta:
+Respuesta: te devuelve el resultado de toda la función para que puedas usarla como desees.
 
 7. ¿Qué hace el comando npm init -y?
 
-Respuesta:
+Respuesta: crea rápidamente un proyecto en Node.js que es como la hoja de vida de nuestros proyectos.
 
 8. ¿Qué archivo se crea al ejecutar npm init -y?
 
-Respuesta:
+Respuesta: un "packege.json" donde se guarda la información como:
+Nombre del proyecto
+Versión
+Descripción
+Dependencias (librerías que usas)
+Scripts (comandos personalizados).
+
 
 9. ¿Por qué una función puede ayudar a repetir una decisión sin escribir todo de nuevo?
 
-Respuesta:
+Respuesta: por que es como una caja donde escribes un código y puedas llamarla mas adelante cuando la necesites.
 
 10. ¿Cómo se relaciona una función con un proceso comunitario claro?
 
-Respuesta:
+Respuesta: por que ambos deben realizar de forma clara y organizada al 
+momento de hacer las cosas como por ejemplo los procesos comunitarios reciben ideas,
+las analizan y por ultimo el resultado es que toman una decisión clara. 

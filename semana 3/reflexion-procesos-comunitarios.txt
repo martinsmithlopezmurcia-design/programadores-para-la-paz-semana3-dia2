@@ -1,8 +1,8 @@
 Reflexión sobre procesos comunitarios – Semana 3 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Martin Smith Lopez Murcia
+Fecha: 03 de mayo de 2026
+Nombre de la rama: Martin_Lopez_Murcia
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - responsabilidad digital
 
 Respuesta:
+
+Es fundamental que una comunidad cuente con criterios claros y consistentes para la revisión de la información,
+ya que esto permite una toma de decisiones organizada y justa para todos, requiriendo normas compartidas sin 
+discriminación por estatus socioeconómico u origen étnico. Esto contribuye a la transparencia de los procesos y 
+fomenta la confianza dentro de la comunidad. La rendición de cuentas digital también ayuda a combatir la desinformación
+mediante un proceso de verificación de la veracidad de la información y su presentación en un lenguaje claro y comprensible, 
+lo que permite que todos participen en la construcción de una comunidad más justa y respetuosa.

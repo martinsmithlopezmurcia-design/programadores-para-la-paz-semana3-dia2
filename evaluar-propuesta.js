@@ -7,6 +7,10 @@ function evaluarPropuestaComunitaria(tieneLenguajeClaro, pideSoloDatosNecesarios
 }
 
 const resultado = evaluarPropuestaComunitaria(true, true)
+const resultado2 = evaluarPropuestaComunitaria(false, true)
 
 console.log("Evaluación de propuesta comunitaria:")
 console.log(resultado)
+
+console.log("Evaluación de propuesta comunitaria:")
+console.log(resultado2)
