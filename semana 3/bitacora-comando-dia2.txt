@@ -11,7 +11,7 @@ Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta: git clone https://github.com/Edgar-Lopez-Murcia/programadores-para-la-paz-semana3-dia2.git
+Respuesta: git clone https://github.com/martinsmithlopezmurcia-design/programadores-para-la-paz-semana3-dia2.git
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
